@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCBPolyESP.PcbDoc   28/07/2025  01:57:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCBPolyESP.TXT
+ASCII RectHoles File : PCBPolyESP-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.304mm (12mil)                                           Round             117       PTH        813.89mm (32.04inch)
+T2      0.76mm (30mil)                                            Rectangle         3         PTH        30.98mm (1.22inch)
+T3      1mm (39mil)                                               Round             28        PTH        107.15mm (4.22inch)
+T4      1.02mm (40mil)                                            Round             25        PTH        250.51mm (9.86inch)
+T5      1.5mm (59mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T6      1.7mm (67mil)                                             Round             4         PTH        15.24mm (0.60inch)
+T7      2.5mm (98mil)                                             Round             4         NPTH       315.60mm (12.43inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              182
+
+Total Processing Time (hh:mm:ss) : 00:00:00
